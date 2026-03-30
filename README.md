@@ -1,4 +1,6 @@
 # smileyface
-Simple Python code for a smiley face. [NEEDS PYTHON3]
+Simple Python code for a smiley face.
+# warning
+Needs Python3.
 
-Made with macOS Big Sur 11.7.11. Python version used is 3.14.
+
